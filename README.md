@@ -160,7 +160,6 @@ The Most Popular *Unix-Like* Operating System. These operating systems are not U
 	- [Parabola](https://www.parabola.nu) - Parabola is derived from Arch and provides packages from it that meet the Free Software Foundation guidelines and replacements for the packages that don't.
 - [Solus](https://getsol.us) - Solus is an independent desktop operating system based on the Linux kernel. It is offered as a curated rolling release model. It is the flagship distro for the Budgie desktop environment and closely tracks optimizations found in Clear Linux, making it one of the fastest desktop Linux distros available.
 - [Mint](https://linuxmint.com) - Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use.
-- [Scientific Linux](https://www.scientificlinux.org) - Scientific Linux is a Linux distribution produced by Fermi National Accelerator Laboratory. It is a free and open source operating system based on Red Hat Enterprise Linux.
 
 ## Mobile Linux® Distributions 
 
