@@ -24,7 +24,7 @@ This list is an exploration of the world of UNIX®, including UNIX history, the 
 	- [Unique Linux® Distributions/Related Projects](#unique-linux-distributionsrelated-projects)
 	- [Embedded/IoT-Focused Linux® Distributions](#embeddediot-focused-linux-distributions)
 - [iOS](#ios)
-- [Solaris and Illumos®](##solaris-and-illumos)
+- [Solaris and Illumos®](#solaris-and-illumos)
 - [GNU Hurd](#gnu-hurd)
 - [More Unix®-Like Operating Systems](#more-unix-like-operating-systems)
 - [Plan 9® Derivatives](#plan-9-derivatives)
